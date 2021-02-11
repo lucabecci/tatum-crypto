@@ -1,0 +1,18 @@
+{
+  "name": "btc-siftio",
+  "version": "1.0.0",
+  "description": "// you must use: tatum.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tatumio/tatum": "^1.5.10",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "uuid": "^8.3.2"
+  }
+}
